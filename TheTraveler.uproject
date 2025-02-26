@@ -42,6 +42,10 @@
 		{
 			"Name": "AnimationLocomotionLibrary",
 			"Enabled": true
+		},
+		{
+			"Name": "DaySequence",
+			"Enabled": true
 		}
 	]
 }
